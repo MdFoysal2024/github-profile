@@ -81,6 +81,6 @@
 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MdFoysal2024" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MdFoysal2024&show_icons=true" alt="Anurag's GitHub stats" />
 </a>
 </div>
