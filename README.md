@@ -76,7 +76,7 @@
 ###
 <div align="center">
 <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=MdFoysal2024&theme=highcontrast" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=MdFoysal2024&theme=highcontrast&show_icons=true" alt="GitHub Streak" />
  
 
 </a>
