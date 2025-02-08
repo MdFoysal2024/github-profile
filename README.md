@@ -77,7 +77,7 @@
 <div align="center">
 <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=MdFoysal2024&theme=highcontrast" alt="GitHub Streak" />
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 </div>
